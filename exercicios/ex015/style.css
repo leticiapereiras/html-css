@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body{
+    background-color: darkgray;
+    font-family: cursive;
+    font-size: 20px;
+}
+h2{
+    color: blueviolet;
+}
+p{
+    text-align: justify;
+}

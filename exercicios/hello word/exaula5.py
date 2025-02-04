@@ -1,0 +1,6 @@
+var= input("Qual o seu nome? " )
+print("Nome: ", var )
+var =input("Qual o seu telefone? ")
+print("telefone: ", var )
+var  =input("Qual numero da identidade? ")
+print("numero da identidade é: ", var )
